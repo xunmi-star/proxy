@@ -1,5 +1,3 @@
-# lkjz_dl
-
 ## Project setup
 ```
 npm install
