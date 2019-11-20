@@ -36,5 +36,5 @@ npm run serve
 
 ## 登录
 、、、
-账号：admin    密码：dianshang123                子账号的默认密码为 123456
+账号：xunmistar    密码：123456                子账号的默认密码为 123456
 、、、
